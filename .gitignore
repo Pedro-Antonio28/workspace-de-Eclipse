@@ -1,0 +1,29 @@
+# Archivos de configuración de proyectos Java
+
+.classpath
+
+.project
+
+.settings/
+
+# Directorios y archivos generados por Eclipse o IntelliJ
+
+bin/
+
+target/
+
+.idea/
+
+# Archivos generados por Maven
+
+target/
+
+*.iml
+
+# Archivos de compilación Java
+
+*.class
+
+# Logs
+
+*.log
